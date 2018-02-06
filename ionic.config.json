@@ -1,0 +1,8 @@
+{
+  "name": "AngularJS",
+  "app_id": "fbab9929",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
